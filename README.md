@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
   - Multi-component architecture (User, Dashboard, Backend)
   - JavaScript/React stack
   
-- **[LinkedIn Clone](https://github.com/DHRUVGANGAL/Linkdin-frontend)** - Social networking platform
+- **[LinkedIn bot](https://github.com/DHRUVGANGAL/Linkdin-frontend)** -
   - Frontend & Backend implementations
   - Full-stack development showcase
 
