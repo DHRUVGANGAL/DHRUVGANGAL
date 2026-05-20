@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dhruv Gangal
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with experience in building web applications, mobile apps, and backend systems. I love exploring new technologies and contributing to innovative projects.
+Welcome to my GitHub profile! I'm a passionate full-stack developer with experience in building web applications, mobile apps, and backend systems. I love exploring new technologies and contributing to open source!
 
 ## 🔭 What I'm Working On
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
 ## 🎯 Featured Projects
 
 ### ⭐ Flagship AI Project
-- **[Lucid Backend](https://github.com/DHRUVGANGAL/Lucid-backend)** - Advanced AI-powered backend system
+- **[Lucid Backend](https://github.com/DHRUVGANGAL/lucid-backend)** - Advanced AI-powered backend system
   - Python-based machine learning engine with REST API endpoints
   - Integrates cutting-edge AI/ML models for intelligent data processing
   - Designed to work seamlessly with the Lucid Frontend TypeScript/React application
@@ -37,22 +37,44 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
   - Perfect for AI-driven applications and intelligent automation
 
 ### Web & Full-Stack Projects
-- **[EchoPay](https://github.com/DHRUVGANGAL)** - A Web3 payment solution
+- **[EchoPay](https://github.com/DHRUVGANGAL/EchoPay-Frontend)** - A Web3 payment solution
   - Frontend: TypeScript/React
   - Backend: JavaScript/Node.js
   
-- **[Healthily](https://github.com/DHRUVGANGAL/Healthily-User)** - Health & wellness platform
-  - Multi-component architecture (User, Dashboard, Backend)
+- **[Healthily](https://github.com/DHRUVGANGAL)** - Health & wellness platform
+  - Multi-component architecture
   - JavaScript/React stack
   
-- **[LinkedIn bot](https://github.com/DHRUVGANGAL/Linkdin-frontend)** -
+- **[LinkedIn bot](https://github.com/DHRUVGANGAL/Linkdin-frontend)** - Full-stack LinkedIn automation
   - Frontend & Backend implementations
   - Full-stack development showcase
 
 ### Backend Projects
-- **[Book Management System Backend](https://github.com/ABES-DS-A/book-app-DHRUVGANGAL)** - Book listing and management API
+- **[Book Management System Backend](https://github.com/DHRUVGANGAL/book-backend)** - Book listing and management API
 - **[Notice Board Backend](https://github.com/DHRUVGANGAL/Notice_backend)** - Admin notification system
 - **[Todo Backend](https://github.com/DHRUVGANGAL/Todo-Backend)** - Task management API
+- **[EchoPay Backend](https://github.com/DHRUVGANGAL/EchoPay-backend)** - Web3 payment backend
+- **[LinkedIn Backend](https://github.com/DHRUVGANGAL/Linkdin-backend)** - LinkedIn automation backend
+- **[User Notice Backend](https://github.com/DHRUVGANGAL/user-notice)** - User notification system
+- **[Admin Notice](https://github.com/DHRUVGANGAL/admin-notice)** - Admin management system
+- **[FSD Backend](https://github.com/DHRUVGANGAL/FSD_BACKEND)** - Full-stack development backend
+- **[FSD with DSA](https://github.com/DHRUVGANGAL/Fsdbackenddsa)** - Backend with data structures
+
+### Frontend & UI Projects
+- **[Portfolio](https://github.com/DHRUVGANGAL/Portfolio)** - Personal portfolio website
+- **[Portfolio v2](https://github.com/DHRUVGANGAL/portfolio2)** - Updated portfolio with modern design
+- **[Todo List App](https://github.com/DHRUVGANGAL/Todo-List)** - Interactive task management UI
+- **[Todo Frontend](https://github.com/DHRUVGANGAL/todo-frontend)** - Todo app frontend
+- **[Inventory Management](https://github.com/DHRUVGANGAL/inventory)** - TypeScript-based inventory system
+- **[Lucid Frontend](https://github.com/DHRUVGANGAL/Frontend-Lucid)** - AI-powered application frontend
+- **[EchoPay Frontend](https://github.com/DHRUVGANGAL/EchoPay-Frontend)** - Web3 payment UI
+- **[LinkedIn Frontend](https://github.com/DHRUVGANGAL/Linkdin-frontend)** - LinkedIn bot frontend
+- **[FSD Frontend](https://github.com/DHRUVGANGAL/FSD-FRONT)** - Full-stack development frontend
+- **[Marks Calculator](https://github.com/DHRUVGANGAL/marksCal)** - Grade calculation tool
+- **[CV/Resume](https://github.com/DHRUVGANGAL/cv)** - Professional CV website
+- **[LifeTimer](https://github.com/DHRUVGANGAL/LifeTimer)** - Interactive life tracking application
+- **[MgoodApp](https://github.com/DHRUVGANGAL/MgoodApp)** - TypeScript React application
+- **[CSS Form](https://github.com/DHRUVGANGAL/css-form)** - Advanced CSS form styling
 
 ### AI/ML & Python Projects
 - **[Lucid Project](https://github.com/DHRUVGANGAL/Frontend-Lucid)** - AI-powered application
@@ -60,16 +82,28 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
   
 - **[Major BTech Project](https://github.com/DHRUVGANGAL/Major_project_btech_8th_sem)** - Final year project using Python
 - **[Buildathon](https://github.com/DHRUVGANGAL/buildathon)** - ML/AI hackathon project
+- **[Backend Lucid](https://github.com/DHRUVGANGAL/backend-lucid)** - Python ML backend
 
-### Frontend & UI Projects
-- **[Portfolio](https://github.com/DHRUVGANGAL/Portfolio)** - Personal portfolio website
-- **[Todo List App](https://github.com/DHRUVGANGAL/Todo-List)** - Interactive task management UI
-- **[Inventory Management](https://github.com/DHRUVGANGAL/inventory)** - TypeScript-based inventory system
+### Quiz & Interactive Applications
+- **[Maths Quiz 2](https://github.com/DHRUVGANGAL/mathsQuiz2)** - Interactive mathematics quiz
+- **[Maths Quiz 1](https://github.com/DHRUVGANGAL/mathsQuiz1)** - Math assessment platform
+- **[Maths Quiz](https://github.com/DHRUVGANGAL/mathsQuiz)** - Quiz application
+- **[Maths Quiz App](https://github.com/DHRUVGANGAL/MathsQuizApp)** - Educational quiz tool
 
 ### Learning & Practice Projects
 - **[JavaScript Learning](https://github.com/DHRUVGANGAL/Javascriptcodewithchai)** - JavaScript practice codes
-- **[Quiz Applications](https://github.com/DHRUVGANGAL/mathsQuiz2)** - Interactive quiz platforms
 - **[Git Profile Fetching](https://github.com/DHRUVGANGAL/GitProfileFetching)** - GitHub API integration project
+- **[Git Profile Fetch](https://github.com/DHRUVGANGAL/gitProfileFetch)** - Profile data fetcher
+- **[FSD](https://github.com/DHRUVGANGAL/FSD)** - Full-stack development course projects
+- **[Mini Project](https://github.com/DHRUVGANGAL/MiniProject)** - Small-scale project showcase
+
+### Academic Assignments
+- **[Assignment 1-8](https://github.com/DHRUVGANGAL/assignment1)** - Various coursework assignments
+- **[Test CSE DS A](https://github.com/DHRUVGANGAL/Test_cseDs_A_2200321540070)** - Data structures test
+
+### Hackathon Projects
+- **[WEBathon](https://github.com/DHRUVGANGAL/WEBathon)** - Web development hackathon
+- **[WEBathon 1](https://github.com/DHRUVGANGAL/WEBathon1)** - Additional hackathon project
 
 ## 📊 Repository Overview
 
