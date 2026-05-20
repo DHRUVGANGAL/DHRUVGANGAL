@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dhruv Gangal
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with experience in building web applications, mobile apps, and backend systems. I love exploring new technologies and contributing to meaningful projects.
+Welcome to my GitHub profile! I'm a passionate full-stack developer with experience in building web applications, mobile apps, and backend systems. I love exploring new technologies and contributing to innovative projects.
 
 ## 🔭 What I'm Working On
 
@@ -27,6 +27,14 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
 - **Interests**: Web3, Blockchain, AI/ML
 
 ## 🎯 Featured Projects
+
+### ⭐ Flagship AI Project
+- **[Lucid Backend](https://github.com/DHRUVGANGAL/Lucid-backend)** - Advanced AI-powered backend system
+  - Python-based machine learning engine with REST API endpoints
+  - Integrates cutting-edge AI/ML models for intelligent data processing
+  - Designed to work seamlessly with the Lucid Frontend TypeScript/React application
+  - Features robust error handling, scalable architecture, and API documentation
+  - Perfect for AI-driven applications and intelligent automation
 
 ### Web & Full-Stack Projects
 - **[EchoPay](https://github.com/DHRUVGANGAL)** - A Web3 payment solution
